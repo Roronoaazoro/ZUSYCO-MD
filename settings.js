@@ -11,7 +11,7 @@
 
 
 Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Creator : @darkmakerofc , @zoroxak 
 
 */
 
@@ -36,7 +36,7 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  STICKER_PACK : '[ Zoroxak ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
