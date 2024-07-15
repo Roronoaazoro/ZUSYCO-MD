@@ -1,6 +1,6 @@
 <div align="center" class= "main"> 
   <img src="https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg" width="300" height="300"/>
-  <h1>ＺＵＳＹＣＯ - ＭＤ</h1>
+  <h1>ZOROXAK</h1>
 
 <a href="https://github.com/DarkMakerofc"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
 <br>
@@ -44,14 +44,14 @@
 
 <br><br>
 #### Youtube Video PlayList
-<a href="https://www.youtube.com/playlist?list=PLZ2z7lRgfHwgwfNRLBKDYZkEgd34yc1xi"><img src="https://i.ibb.co/NZ9D5Tz/youtube-playlist-zusyco.jpg" alt="--NIMA" border="2" width="300" height="165" ></a>
+<a href="https://youtu.be/D4hAVemuQXY?si=v6-N9hMPtqrSn67u"><img src="https://i.ibb.co/NZ9D5Tz/youtube-playlist-zusyco.jpg" alt="--NIMA" border="2" width="300" height="165" ></a>
 <br>
 
 </div>
 
 <br><br>
 #### Join Telegram Support Group.
-<a href="https://t.me/+_IJSxrsUMD5lYTU1"><img src="https://i.ibb.co/Kj3Knpk/TG-SUPPORT-REPO-LOW-NIMA.png" alt="TG-SUPPORT-REPO-LOW-NIMA" border="2" width="145" height="46" ></a>
+<a href="[https://t.me/+_IJSxrsUMD5lYTU1](https://youtu.be/D4hAVemuQXY?si=v6-N9hMPtqrSn67u)"><img src="https://i.ibb.co/Kj3Knpk/TG-SUPPORT-REPO-LOW-NIMA.png" alt="TG-SUPPORT-REPO-LOW-NIMA" border="2" width="145" height="46" ></a>
 <br><br><br><br><br><br><br><br><br><br>
 
 # Author : [@MrNima](https://github.com/darkmakerofc)
